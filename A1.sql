@@ -15,3 +15,6 @@ select CAST(invoice_number AS SIGNED) from invoices order by invoice_number;
 use ex;
 
 select * from projects;
+
+-- Question 6
+select * from invoices;
